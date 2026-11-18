@@ -1,0 +1,80 @@
+{
+  "extName": {
+    "message": "Modellkatalog",
+    "description": "Extension name"
+  },
+  "extNameShort": {
+    "message": "Modellkatalog"
+  },
+  "extDescription": {
+    "message": "Fünf feste Kategorien für GPT-, Claude- und Sitzungsmodelle. Filter, Favoriten und PDF-Katalog."
+  },
+  "popupTitle": {
+    "message": "Fünf feste Kategorien"
+  },
+  "routingTitle": {
+    "message": "Agentur-Zuteilung"
+  },
+  "searchLabel": {
+    "message": "Modelle suchen"
+  },
+  "filterAll": {
+    "message": "Alle"
+  },
+  "scopeAll": {
+    "message": "Gesamte Liste"
+  },
+  "scopeCallable": {
+    "message": "Hier aufrufbar"
+  },
+  "scopeListOnly": {
+    "message": "Nur in der Liste"
+  },
+  "resultCount": {
+    "message": "$1$ von $2$ Modellen",
+    "placeholders": {
+      "1": { "content": "$1" },
+      "2": { "content": "$2" }
+    }
+  },
+  "emptyResults": {
+    "message": "Kein Modell passt zu diesem Filter."
+  },
+  "badgeCallable": {
+    "message": "Aufrufbar"
+  },
+  "badgeNotCallable": {
+    "message": "Nicht aufrufbar"
+  },
+  "labelCategory": { "message": "Kategorie" },
+  "labelLine": { "message": "Linie" },
+  "labelGeneration": { "message": "Generation" },
+  "labelSource": { "message": "Herkunft" },
+  "labelSlug": { "message": "Slug" },
+  "labelCallable": { "message": "Aufruf hier" },
+  "labelEffort": { "message": "Effort" },
+  "labelQuote": { "message": "Wortlaut" },
+  "labelRole": { "message": "Einsatz" },
+  "noEffort": { "message": "keine Effort-Suffixe" },
+  "copySlug": { "message": "Slug kopieren" },
+  "copied": { "message": "Slug kopiert" },
+  "copyFailed": { "message": "Kopieren fehlgeschlagen" },
+  "addFavorite": { "message": "Als Favorit" },
+  "removeFavorite": { "message": "Favorit entfernen" },
+  "favoritesUpdated": { "message": "Favoriten aktualisiert" },
+  "pdfFailed": { "message": "PDF konnte nicht geöffnet werden" },
+  "bootFailed": { "message": "Oberfläche konnte nicht geladen werden." },
+  "optionsTitle": { "message": "Optionen" },
+  "optionsLead": {
+    "message": "Filter, Favoriten und Sprache. Es werden keine Kontodaten und keine Seiteninhalte gelesen."
+  },
+  "localeTitle": { "message": "Sprache" },
+  "localeLabel": { "message": "Anzeigesprache" },
+  "defaultsTitle": { "message": "Standardfilter" },
+  "defaultCategory": { "message": "Startkategorie" },
+  "defaultScope": { "message": "Aufruf-Bereich" },
+  "favoritesTitle": { "message": "Favoriten" },
+  "noFavorites": { "message": "Keine Favoriten gesetzt." },
+  "saved": { "message": "Gespeichert" },
+  "saveFailed": { "message": "Speichern fehlgeschlagen" }
+}

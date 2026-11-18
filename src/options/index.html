@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Modellkatalog · Optionen</title>
+    <link rel="stylesheet" href="./options.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header>
+        <p class="eyebrow">Modellkatalog</p>
+        <h1 data-i18n="optionsTitle">Optionen</h1>
+        <p class="lead" data-i18n="optionsLead">
+          Filter, Favoriten und Sprache. Es werden keine Kontodaten und keine
+          Seiteninhalte gelesen.
+        </p>
+      </header>
+
+      <section class="card" aria-labelledby="locale-title">
+        <h2 id="locale-title" data-i18n="localeTitle">Sprache</h2>
+        <label class="field" for="locale">
+          <span data-i18n="localeLabel">Anzeigesprache</span>
+          <select id="locale">
+            <option value="system">System</option>
+            <option value="de">Deutsch</option>
+            <option value="en">English</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="card" aria-labelledby="defaults-title">
+        <h2 id="defaults-title" data-i18n="defaultsTitle">Standardfilter</h2>
+        <label class="field" for="default-category">
+          <span data-i18n="defaultCategory">Startkategorie</span>
+          <select id="default-category">
+            <option value="all">Alle</option>
+            <option value="Frontier">Frontier</option>
+            <option value="Stark">Stark</option>
+            <option value="Alltag">Alltag</option>
+            <option value="Volumen">Volumen</option>
+            <option value="Spezial">Spezial</option>
+          </select>
+        </label>
+        <label class="field" for="default-scope">
+          <span data-i18n="defaultScope">Aufruf-Bereich</span>
+          <select id="default-scope">
+            <option value="all">Gesamte Liste</option>
+            <option value="callable">Hier aufrufbar</option>
+            <option value="list-only">Nur in der Liste</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="card" aria-labelledby="favorites-title">
+        <h2 id="favorites-title" data-i18n="favoritesTitle">Favoriten</h2>
+        <p id="favorites-summary" class="meta"></p>
+        <button type="button" id="clear-favorites" class="button">
+          Favoriten leeren
+        </button>
+      </section>
+
+      <section class="card" aria-labelledby="privacy-title">
+        <h2 id="privacy-title">Datenschutz</h2>
+        <p class="meta">
+          Die Extension speichert nur lokale Präferenzen (Filter, Favoriten,
+          Sprachwahl) in <code>chrome.storage</code>. Es gibt keine Tracker, keine
+          Host-Berechtigungen und keinen Remote-Code.
+        </p>
+        <div class="actions">
+          <button type="button" id="open-pdf" class="button primary">PDF öffnen</button>
+          <a class="button" href="../PRIVACY.md" id="privacy-link" hidden>Privacy</a>
+        </div>
+      </section>
+
+      <p id="save-status" class="status" role="status" aria-live="polite"></p>
+    </main>
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

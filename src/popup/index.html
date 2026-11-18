@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Modellkatalog</title>
+    <link rel="stylesheet" href="./popup.css" />
+  </head>
+  <body>
+    <div id="app" class="app" role="application" aria-busy="true">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow" data-i18n="extNameShort">Modellkatalog</p>
+          <h1 id="title" data-i18n="popupTitle">Fünf feste Kategorien</h1>
+        </div>
+        <div class="top-actions">
+          <button
+            type="button"
+            id="open-pdf"
+            class="icon-button"
+            aria-label="PDF öffnen"
+            title="PDF öffnen"
+          >
+            PDF
+          </button>
+          <button
+            type="button"
+            id="open-options"
+            class="icon-button"
+            aria-label="Optionen öffnen"
+            title="Optionen"
+          >
+            Opt
+          </button>
+        </div>
+      </header>
+
+      <section class="routing" aria-labelledby="routing-title">
+        <h2 id="routing-title" data-i18n="routingTitle">Agentur-Zuteilung</h2>
+        <ol id="routing-list" class="routing-list"></ol>
+      </section>
+
+      <section class="controls" aria-label="Filter">
+        <label class="search-field" for="search">
+          <span class="sr-only" data-i18n="searchLabel">Modelle suchen</span>
+          <input
+            id="search"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Name, Slug, Linie…"
+          />
+        </label>
+
+        <div
+          id="category-filters"
+          class="chip-row"
+          role="tablist"
+          aria-label="Kategorie"
+        ></div>
+
+        <div
+          id="scope-filters"
+          class="chip-row"
+          role="group"
+          aria-label="Aufruf-Bereich"
+        ></div>
+      </section>
+
+      <p id="status" class="status" aria-live="polite"></p>
+
+      <main id="results" class="results" tabindex="-1"></main>
+
+      <div
+        id="detail"
+        class="detail"
+        hidden
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="detail-title"
+      >
+        <div class="detail-panel">
+          <header class="detail-header">
+            <h2 id="detail-title"></h2>
+            <button type="button" id="close-detail" class="icon-button" aria-label="Schließen">
+              Close
+            </button>
+          </header>
+          <div id="detail-body" class="detail-body"></div>
+        </div>
+      </div>
+
+      <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+    </div>
+
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

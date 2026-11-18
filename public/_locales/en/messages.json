@@ -1,0 +1,80 @@
+{
+  "extName": {
+    "message": "Model Catalog",
+    "description": "Extension name"
+  },
+  "extNameShort": {
+    "message": "Model Catalog"
+  },
+  "extDescription": {
+    "message": "Five fixed categories for GPT, Claude, and session models. Filters, favorites, and PDF catalog."
+  },
+  "popupTitle": {
+    "message": "Five fixed categories"
+  },
+  "routingTitle": {
+    "message": "Agency routing"
+  },
+  "searchLabel": {
+    "message": "Search models"
+  },
+  "filterAll": {
+    "message": "All"
+  },
+  "scopeAll": {
+    "message": "Full list"
+  },
+  "scopeCallable": {
+    "message": "Callable here"
+  },
+  "scopeListOnly": {
+    "message": "List only"
+  },
+  "resultCount": {
+    "message": "$1$ of $2$ models",
+    "placeholders": {
+      "1": { "content": "$1" },
+      "2": { "content": "$2" }
+    }
+  },
+  "emptyResults": {
+    "message": "No model matches this filter."
+  },
+  "badgeCallable": {
+    "message": "Callable"
+  },
+  "badgeNotCallable": {
+    "message": "Not callable"
+  },
+  "labelCategory": { "message": "Category" },
+  "labelLine": { "message": "Line" },
+  "labelGeneration": { "message": "Generation" },
+  "labelSource": { "message": "Source" },
+  "labelSlug": { "message": "Slug" },
+  "labelCallable": { "message": "Callable here" },
+  "labelEffort": { "message": "Effort" },
+  "labelQuote": { "message": "Wording" },
+  "labelRole": { "message": "Use" },
+  "noEffort": { "message": "no effort suffixes" },
+  "copySlug": { "message": "Copy slug" },
+  "copied": { "message": "Slug copied" },
+  "copyFailed": { "message": "Copy failed" },
+  "addFavorite": { "message": "Add favorite" },
+  "removeFavorite": { "message": "Remove favorite" },
+  "favoritesUpdated": { "message": "Favorites updated" },
+  "pdfFailed": { "message": "Could not open the PDF" },
+  "bootFailed": { "message": "The UI could not be loaded." },
+  "optionsTitle": { "message": "Options" },
+  "optionsLead": {
+    "message": "Filters, favorites, and language. No account data and no page content are read."
+  },
+  "localeTitle": { "message": "Language" },
+  "localeLabel": { "message": "Display language" },
+  "defaultsTitle": { "message": "Default filters" },
+  "defaultCategory": { "message": "Starting category" },
+  "defaultScope": { "message": "Callable scope" },
+  "favoritesTitle": { "message": "Favorites" },
+  "noFavorites": { "message": "No favorites set." },
+  "saved": { "message": "Saved" },
+  "saveFailed": { "message": "Save failed" }
+}
