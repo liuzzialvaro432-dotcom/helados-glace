@@ -351,11 +351,17 @@ const bindStaticEvents = (): void => {
   });
 
   openPdf.addEventListener("click", () => {
-    void sendMessage({ type: "OPEN_PDF" }).then((response) => {
-      if (!response.ok) {
-        showToast(t("pdfFailed") || "PDF konnte nicht geöffnet werden");
-      }
-    });
+    const pdfUrl = chrome.runtime.getURL("Modellkatalog.pdf");
+    void chrome.tabs
+      .create({ url: pdfUrl })
+      .then(() => undefined)
+      .catch(() =>
+        sendMessage({ type: "OPEN_PDF" }).then((response) => {
+          if (!response.ok) {
+            showToast(t("pdfFailed") || "PDF konnte nicht geöffnet werden");
+          }
+        }),
+      );
   });
 
   openOptions.addEventListener("click", () => {
