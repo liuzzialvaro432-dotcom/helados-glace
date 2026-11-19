@@ -77,3 +77,7 @@ npm run build
 ```
 
 `dist/` ist das ladbare Extension-Paket.
+
+## Weitere Projekte in diesem Repository
+
+- [`glace/`](glace/README.md): Bestell-App und Website für Helados Glacé (Next.js, PWA). Eigenständiges Projekt mit eigenem `package.json`.
