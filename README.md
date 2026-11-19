@@ -21,7 +21,8 @@
 
 <p align="center">
   <a href="glace/README.md"><strong>Documentación técnica</strong></a> ·
-  <a href="glace/">Código de la app</a> ·
+  <a href="CLAUDE.md"><strong>CLAUDE.md</strong></a> ·
+  <a href="docs/claude-einrichtung.md">Claude einbinden (DE)</a> ·
   <a href="https://fiweex.com/delivery/glace">Catálogo original (Fiweex)</a>
 </p>
 

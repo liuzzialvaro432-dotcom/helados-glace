@@ -1,6 +1,7 @@
 # Helados Glacé – Bestell-App und Website
 
-> **GitHub-Ansicht:** Screenshots, Banner und Projektübersicht stehen in der [README im Repo-Root](../README.md).
+> **GitHub-Ansicht:** Screenshots, Banner und Projektübersicht stehen in der [README im Repo-Root](../README.md).  
+> **Claude:** Einstieg [../CLAUDE.md](../CLAUDE.md) · Anbindung [../docs/claude-einrichtung.md](../docs/claude-einrichtung.md)
 
 Web-App im Stil von PedidosYa/Fiweex für Helados Glacé (Paraguay): Katalog mit echten Produkten, Warenkorb,
 Delivery oder Abholung und Bestellung per WhatsApp. Dieselbe Anwendung ist Website und installierbare App (PWA)
