@@ -1,0 +1,1998 @@
+{
+  "source": "https://fiweex.com/delivery/glace",
+  "syncedAt": "2026-11-19T14:34:38.168Z",
+  "orderBranches": [
+    {
+      "id": 5612,
+      "name": "Glace Central - Trinidad"
+    },
+    {
+      "id": 7092,
+      "name": "Glace Suc - MRA"
+    },
+    {
+      "id": 7093,
+      "name": "Glace Suc - Sacramento"
+    },
+    {
+      "id": 7094,
+      "name": "Glace Suc - San Lorenzo"
+    },
+    {
+      "id": 7090,
+      "name": "Glace Suc - Sgto Gauto"
+    }
+  ],
+  "weeklyHours": [
+    [
+      {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    ],
+    [
+      {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    ],
+    [
+      {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    ],
+    [
+      {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    ],
+    [
+      {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    ],
+    [
+      {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    ],
+    [
+      {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    ]
+  ],
+  "featuredIds": [
+    52298,
+    109092,
+    52304,
+    52256,
+    52317,
+    81482,
+    81370,
+    95612
+  ],
+  "categories": [
+    {
+      "id": 12907,
+      "name": "No te podes perder",
+      "image": "/img/categories/12907.webp",
+      "productIds": [
+        81370
+      ]
+    },
+    {
+      "id": 5973,
+      "name": "Helados Clásicos y Premium Artesanales",
+      "image": "/img/categories/5973.webp",
+      "productIds": [
+        52298,
+        52304,
+        95547,
+        95550,
+        109092
+      ]
+    },
+    {
+      "id": 8880,
+      "name": "Tortas de Helado",
+      "image": "/img/categories/8880.webp",
+      "productIds": [
+        52314,
+        81371,
+        81393,
+        81394,
+        81395,
+        91709,
+        95543,
+        111888
+      ]
+    },
+    {
+      "id": 5974,
+      "name": "Helados Glacé Delifree sin Azúcar y sin Lactosa",
+      "image": "/img/categories/5974.webp",
+      "productIds": [
+        52317,
+        52318,
+        52321,
+        81475,
+        81482,
+        81484,
+        95606,
+        95608,
+        95609,
+        95612
+      ]
+    },
+    {
+      "id": 11561,
+      "name": "Tortas Glacé Delifree sin Azúcar y sin Lactosa",
+      "image": "/img/categories/11561.webp",
+      "productIds": [
+        93868,
+        93870,
+        95407,
+        95408,
+        111887
+      ]
+    },
+    {
+      "id": 5975,
+      "name": "Artesanales / Postres Helados",
+      "image": "/img/categories/5975.webp",
+      "productIds": [
+        52261,
+        52262,
+        95554,
+        95596,
+        95597,
+        95598,
+        95599,
+        95600,
+        95601
+      ]
+    },
+    {
+      "id": 5971,
+      "name": "Date el Gustito",
+      "image": "/img/categories/5971.webp",
+      "productIds": [
+        52256,
+        52258,
+        81360,
+        95607
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 52298,
+      "name": "Helados 1kg",
+      "description": "Hasta 4 Sabores\n\n🍦¡JUEVES DE GLACÉ!🎉\nDisfrutá de 1 kg de tu helado favorito, combinando hasta 4 sabores, por tan solo Gs. 55.000.\n¡Elegí tus sabores y endulzá tu jueves con Glacé!💚",
+      "price": 69000,
+      "previousPrice": null,
+      "categoryId": 5973,
+      "image": "/img/products/52298.webp",
+      "featured": true,
+      "optionGroups": [
+        {
+          "id": 8514,
+          "kind": "multi",
+          "max": 4,
+          "items": [
+            {
+              "id": 40193,
+              "name": "Amarena",
+              "price": 0
+            },
+            {
+              "id": 40194,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 40195,
+              "name": "Banana Split",
+              "price": 0
+            },
+            {
+              "id": 40196,
+              "name": "Cafe",
+              "price": 0
+            },
+            {
+              "id": 40197,
+              "name": "Coco Split",
+              "price": 0
+            },
+            {
+              "id": 40198,
+              "name": "Pistacho",
+              "price": 0
+            },
+            {
+              "id": 40199,
+              "name": "Oreo",
+              "price": 0
+            },
+            {
+              "id": 40200,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40201,
+              "name": "Cuatro Leches",
+              "price": 0
+            },
+            {
+              "id": 40202,
+              "name": "Frutilla a la crema",
+              "price": 0
+            },
+            {
+              "id": 40203,
+              "name": "Frutilla Tentación Con jalea de Frutilla",
+              "price": 0
+            },
+            {
+              "id": 40204,
+              "name": "Menta Granizada",
+              "price": 0
+            },
+            {
+              "id": 40205,
+              "name": "Portuguesa",
+              "price": 0
+            },
+            {
+              "id": 40206,
+              "name": "Straciatella",
+              "price": 0
+            },
+            {
+              "id": 40207,
+              "name": "Tramontana",
+              "price": 0
+            },
+            {
+              "id": 40208,
+              "name": "Vainilla",
+              "price": 0
+            },
+            {
+              "id": 40209,
+              "name": "Chocolate Amargo",
+              "price": 0
+            },
+            {
+              "id": 40210,
+              "name": "Chocolate Clásico",
+              "price": 0
+            },
+            {
+              "id": 40211,
+              "name": "Chocolate Suizo",
+              "price": 0
+            },
+            {
+              "id": 40212,
+              "name": "Chocolate con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40213,
+              "name": "Chocolate con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40214,
+              "name": "Dulce de leche Clásico",
+              "price": 0
+            },
+            {
+              "id": 40215,
+              "name": "Dulce de leche Granizado",
+              "price": 0
+            },
+            {
+              "id": 40216,
+              "name": "Dulce de leche Glacé con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40217,
+              "name": "Dulce de leche Tentación",
+              "price": 0
+            },
+            {
+              "id": 40218,
+              "name": "Dulce de leche con Oreo",
+              "price": 0
+            },
+            {
+              "id": 40219,
+              "name": "Acai al agua",
+              "price": 0
+            },
+            {
+              "id": 40220,
+              "name": "Frutilla al agua",
+              "price": 0
+            },
+            {
+              "id": 40221,
+              "name": "Frutos del bosque a la crema",
+              "price": 0
+            },
+            {
+              "id": 40222,
+              "name": "Frutos rojos al agua",
+              "price": 0
+            },
+            {
+              "id": 40223,
+              "name": "Limoncello",
+              "price": 0
+            },
+            {
+              "id": 40224,
+              "name": "Mburucuyá a la crema",
+              "price": 0
+            },
+            {
+              "id": 40225,
+              "name": "Pie de limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 109092,
+      "name": "Conos x4u",
+      "description": "",
+      "price": 5000,
+      "previousPrice": null,
+      "categoryId": 5973,
+      "image": "/img/products/109092.webp",
+      "featured": true,
+      "optionGroups": []
+    },
+    {
+      "id": 52304,
+      "name": "Helados 1/2 kg",
+      "description": "Hasta 3 sabores",
+      "price": 37000,
+      "previousPrice": null,
+      "categoryId": 5973,
+      "image": "/img/products/52304.webp",
+      "featured": true,
+      "optionGroups": [
+        {
+          "id": 8514,
+          "kind": "multi",
+          "max": 3,
+          "items": [
+            {
+              "id": 40193,
+              "name": "Amarena",
+              "price": 0
+            },
+            {
+              "id": 40194,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 40195,
+              "name": "Banana Split",
+              "price": 0
+            },
+            {
+              "id": 40196,
+              "name": "Cafe",
+              "price": 0
+            },
+            {
+              "id": 40197,
+              "name": "Coco Split",
+              "price": 0
+            },
+            {
+              "id": 40198,
+              "name": "Pistacho",
+              "price": 0
+            },
+            {
+              "id": 40199,
+              "name": "Oreo",
+              "price": 0
+            },
+            {
+              "id": 40200,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40201,
+              "name": "Cuatro Leches",
+              "price": 0
+            },
+            {
+              "id": 40202,
+              "name": "Frutilla a la crema",
+              "price": 0
+            },
+            {
+              "id": 40203,
+              "name": "Frutilla Tentación Con jalea de Frutilla",
+              "price": 0
+            },
+            {
+              "id": 40204,
+              "name": "Menta Granizada",
+              "price": 0
+            },
+            {
+              "id": 40205,
+              "name": "Portuguesa",
+              "price": 0
+            },
+            {
+              "id": 40206,
+              "name": "Straciatella",
+              "price": 0
+            },
+            {
+              "id": 40207,
+              "name": "Tramontana",
+              "price": 0
+            },
+            {
+              "id": 40208,
+              "name": "Vainilla",
+              "price": 0
+            },
+            {
+              "id": 40209,
+              "name": "Chocolate Amargo",
+              "price": 0
+            },
+            {
+              "id": 40210,
+              "name": "Chocolate Clásico",
+              "price": 0
+            },
+            {
+              "id": 40211,
+              "name": "Chocolate Suizo",
+              "price": 0
+            },
+            {
+              "id": 40212,
+              "name": "Chocolate con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40213,
+              "name": "Chocolate con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40214,
+              "name": "Dulce de leche Clásico",
+              "price": 0
+            },
+            {
+              "id": 40215,
+              "name": "Dulce de leche Granizado",
+              "price": 0
+            },
+            {
+              "id": 40216,
+              "name": "Dulce de leche Glacé con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40217,
+              "name": "Dulce de leche Tentación",
+              "price": 0
+            },
+            {
+              "id": 40218,
+              "name": "Dulce de leche con Oreo",
+              "price": 0
+            },
+            {
+              "id": 40219,
+              "name": "Acai al agua",
+              "price": 0
+            },
+            {
+              "id": 40220,
+              "name": "Frutilla al agua",
+              "price": 0
+            },
+            {
+              "id": 40221,
+              "name": "Frutos del bosque a la crema",
+              "price": 0
+            },
+            {
+              "id": 40222,
+              "name": "Frutos rojos al agua",
+              "price": 0
+            },
+            {
+              "id": 40223,
+              "name": "Limoncello",
+              "price": 0
+            },
+            {
+              "id": 40224,
+              "name": "Mburucuyá a la crema",
+              "price": 0
+            },
+            {
+              "id": 40225,
+              "name": "Pie de limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52256,
+      "name": "Brownie",
+      "description": "",
+      "price": 9000,
+      "previousPrice": null,
+      "categoryId": 5971,
+      "image": "/img/products/52256.webp",
+      "featured": true,
+      "optionGroups": []
+    },
+    {
+      "id": 52317,
+      "name": "Helados 1kg",
+      "description": "Hasta 4 sabores",
+      "price": 89000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/52317.webp",
+      "featured": true,
+      "optionGroups": [
+        {
+          "id": 7916,
+          "kind": "multi",
+          "max": 4,
+          "items": [
+            {
+              "id": 37421,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 37422,
+              "name": "Americana con almendras",
+              "price": 0
+            },
+            {
+              "id": 37423,
+              "name": "Chocolate",
+              "price": 0
+            },
+            {
+              "id": 37424,
+              "name": "Frutilla",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81482,
+      "name": "Delifree Americana con Almendras 180 gr",
+      "description": "Helado sabor americana con almendras sin azúcar y sin lactosa",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/81482.webp",
+      "featured": true,
+      "optionGroups": []
+    },
+    {
+      "id": 81370,
+      "name": "La recomendada",
+      "description": "Torta de helado de Dulce de leche, Chantilly y trozos de Brownie de Chocolate",
+      "price": 85000,
+      "previousPrice": null,
+      "categoryId": 12907,
+      "image": "/img/products/81370.webp",
+      "featured": true,
+      "optionGroups": []
+    },
+    {
+      "id": 95612,
+      "name": "Brownie Delifree",
+      "description": "Brownie sin azúcar y sin lactosa hecho con harina de avena, cacao, bananas y edulzado con sucralosa",
+      "price": 19000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/95612.webp",
+      "featured": true,
+      "optionGroups": []
+    },
+    {
+      "id": 95547,
+      "name": "Helados 1/4 kg",
+      "description": "Hasta dos sabores",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5973,
+      "image": "/img/products/95547.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 8514,
+          "kind": "multi",
+          "max": 2,
+          "items": [
+            {
+              "id": 40193,
+              "name": "Amarena",
+              "price": 0
+            },
+            {
+              "id": 40194,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 40195,
+              "name": "Banana Split",
+              "price": 0
+            },
+            {
+              "id": 40196,
+              "name": "Cafe",
+              "price": 0
+            },
+            {
+              "id": 40197,
+              "name": "Coco Split",
+              "price": 0
+            },
+            {
+              "id": 40198,
+              "name": "Pistacho",
+              "price": 0
+            },
+            {
+              "id": 40199,
+              "name": "Oreo",
+              "price": 0
+            },
+            {
+              "id": 40200,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40201,
+              "name": "Cuatro Leches",
+              "price": 0
+            },
+            {
+              "id": 40202,
+              "name": "Frutilla a la crema",
+              "price": 0
+            },
+            {
+              "id": 40203,
+              "name": "Frutilla Tentación Con jalea de Frutilla",
+              "price": 0
+            },
+            {
+              "id": 40204,
+              "name": "Menta Granizada",
+              "price": 0
+            },
+            {
+              "id": 40205,
+              "name": "Portuguesa",
+              "price": 0
+            },
+            {
+              "id": 40206,
+              "name": "Straciatella",
+              "price": 0
+            },
+            {
+              "id": 40207,
+              "name": "Tramontana",
+              "price": 0
+            },
+            {
+              "id": 40208,
+              "name": "Vainilla",
+              "price": 0
+            },
+            {
+              "id": 40209,
+              "name": "Chocolate Amargo",
+              "price": 0
+            },
+            {
+              "id": 40210,
+              "name": "Chocolate Clásico",
+              "price": 0
+            },
+            {
+              "id": 40211,
+              "name": "Chocolate Suizo",
+              "price": 0
+            },
+            {
+              "id": 40212,
+              "name": "Chocolate con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40213,
+              "name": "Chocolate con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40214,
+              "name": "Dulce de leche Clásico",
+              "price": 0
+            },
+            {
+              "id": 40215,
+              "name": "Dulce de leche Granizado",
+              "price": 0
+            },
+            {
+              "id": 40216,
+              "name": "Dulce de leche Glacé con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40217,
+              "name": "Dulce de leche Tentación",
+              "price": 0
+            },
+            {
+              "id": 40218,
+              "name": "Dulce de leche con Oreo",
+              "price": 0
+            },
+            {
+              "id": 40219,
+              "name": "Acai al agua",
+              "price": 0
+            },
+            {
+              "id": 40220,
+              "name": "Frutilla al agua",
+              "price": 0
+            },
+            {
+              "id": 40221,
+              "name": "Frutos del bosque a la crema",
+              "price": 0
+            },
+            {
+              "id": 40222,
+              "name": "Frutos rojos al agua",
+              "price": 0
+            },
+            {
+              "id": 40223,
+              "name": "Limoncello",
+              "price": 0
+            },
+            {
+              "id": 40224,
+              "name": "Mburucuyá a la crema",
+              "price": 0
+            },
+            {
+              "id": 40225,
+              "name": "Pie de limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95550,
+      "name": "Duo Premium Choco/PistachoDubai",
+      "description": "1/2 kg de Pistacho Dubai y Chocolate Alemán",
+      "price": 39000,
+      "previousPrice": null,
+      "categoryId": 5973,
+      "image": "/img/products/95550.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 52314,
+      "name": "Torta de helado Pasión",
+      "description": "Torta de helado de Mburucuya con helado de frutilla y mermelada de frutilla con frutillas naturales",
+      "price": 85000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/52314.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 81371,
+      "name": "Torta de helado Oreo",
+      "description": "Helado de Oreo con Galletitas Oreo",
+      "price": 85000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/81371.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 81393,
+      "name": "Torta de helado Almendrada",
+      "description": "Torta de helado de Americana con almendras",
+      "price": 95000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/81393.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 81394,
+      "name": "Torta de helado Pie de Limon",
+      "description": "Helado de Pie de limon con Helado de Frutos Rojos, Glace de frutos rojos y merengue",
+      "price": 95000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/81394.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 81395,
+      "name": "Torta de helado Matilda",
+      "description": "Torta de helado de puro chocolate. La ultra chocolatosa.",
+      "price": 95000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/81395.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 91709,
+      "name": "Torta de helado Cheesecake",
+      "description": "Torta de helado sabor Cheesecake y Frutos rojos. Coulis de Frutos Rojos por encima.",
+      "price": 85000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/91709.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95543,
+      "name": "Torta de helado Duo",
+      "description": "Torta de helado brownie con helado sabor dulce de leche, y chocolate con cobertura de dulce de leche",
+      "price": 85000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/95543.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 111888,
+      "name": "Insignia",
+      "description": "Helado de americana y frutilla.",
+      "price": 129000,
+      "previousPrice": null,
+      "categoryId": 8880,
+      "image": "/img/products/111888.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 52318,
+      "name": "Pote de 1/2 Kg de Helado",
+      "description": "",
+      "price": 49000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/52318.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 7916,
+          "kind": "multi",
+          "max": null,
+          "items": [
+            {
+              "id": 37421,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 37422,
+              "name": "Americana con almendras",
+              "price": 0
+            },
+            {
+              "id": 37423,
+              "name": "Chocolate",
+              "price": 0
+            },
+            {
+              "id": 37424,
+              "name": "Frutilla",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52321,
+      "name": "Pote de 1/4 kg de Helado",
+      "description": "Hasta dos sabores",
+      "price": 36000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/52321.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 7916,
+          "kind": "multi",
+          "max": 2,
+          "items": [
+            {
+              "id": 37421,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 37422,
+              "name": "Americana con almendras",
+              "price": 0
+            },
+            {
+              "id": 37423,
+              "name": "Chocolate",
+              "price": 0
+            },
+            {
+              "id": 37424,
+              "name": "Frutilla",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81475,
+      "name": "Delifree Chocolate 180 gr",
+      "description": "Helado de Chocolate sin lactosa y sin azúcar",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/81475.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 81484,
+      "name": "Delifree Frutilla 180 gr",
+      "description": "Helado de Frutilla sin azúcar y sin lactosa",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/81484.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95606,
+      "name": "Milkshake Delifree 500ml",
+      "description": "Sin Azucar, Sin lactosa",
+      "price": 24000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/95606.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 7139,
+          "kind": "single",
+          "max": 1,
+          "items": [
+            {
+              "id": 34590,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 34591,
+              "name": "Americana con Frutos rojos",
+              "price": 0
+            },
+            {
+              "id": 34592,
+              "name": "Americana con mantequilla de maní",
+              "price": 0
+            },
+            {
+              "id": 34593,
+              "name": "Chocolate",
+              "price": 0
+            },
+            {
+              "id": 34594,
+              "name": "Frutilla",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95608,
+      "name": "Frutos Secos",
+      "description": "Frutos Secos Almendras y Nueces",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/95608.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95609,
+      "name": "Copa Almendras Delifree",
+      "description": "Copa Almendras Delifree Helado de americana con almendras y frutos secos \"almendras",
+      "price": 26000,
+      "previousPrice": null,
+      "categoryId": 5974,
+      "image": "/img/products/95609.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 93868,
+      "name": "Torta de helado de americana con maní sin azúcar y sin lactosa.",
+      "description": "",
+      "price": 114000,
+      "previousPrice": null,
+      "categoryId": 11561,
+      "image": "/img/products/93868.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 93870,
+      "name": "Torta de helado de americana con frutos del bosque y Jalea de frutos del bosque sin azúcar y sin lactosa.",
+      "description": "Americana con frutos del bosque.",
+      "price": 114000,
+      "previousPrice": null,
+      "categoryId": 11561,
+      "image": "/img/products/93870.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95407,
+      "name": "Torta de helado de Frutilla y Chocolate sin azúcar y sin lactosa.",
+      "description": "Torta de helado de Frutilla y Chocolate",
+      "price": 114000,
+      "previousPrice": null,
+      "categoryId": 11561,
+      "image": "/img/products/95407.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95408,
+      "name": "Torta de helado de america con almendras sin azúcar y sin lactosa",
+      "description": "Torta de helado de america con almendras sin azúcar y sin lactosa",
+      "price": 125000,
+      "previousPrice": null,
+      "categoryId": 11561,
+      "image": "/img/products/95408.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 111887,
+      "name": "Dulce Manjar",
+      "description": "Helado de crema Americana con dulce de leche.",
+      "price": 114000,
+      "previousPrice": null,
+      "categoryId": 11561,
+      "image": "/img/products/111887.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 52261,
+      "name": "Combo volcán + 1/4 kg",
+      "description": "Volcan de dulce de leche + 1/4 kg",
+      "price": 39000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/52261.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 8514,
+          "kind": "multi",
+          "max": null,
+          "items": [
+            {
+              "id": 40193,
+              "name": "Amarena",
+              "price": 0
+            },
+            {
+              "id": 40194,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 40195,
+              "name": "Banana Split",
+              "price": 0
+            },
+            {
+              "id": 40196,
+              "name": "Cafe",
+              "price": 0
+            },
+            {
+              "id": 40197,
+              "name": "Coco Split",
+              "price": 0
+            },
+            {
+              "id": 40198,
+              "name": "Pistacho",
+              "price": 0
+            },
+            {
+              "id": 40199,
+              "name": "Oreo",
+              "price": 0
+            },
+            {
+              "id": 40200,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40201,
+              "name": "Cuatro Leches",
+              "price": 0
+            },
+            {
+              "id": 40202,
+              "name": "Frutilla a la crema",
+              "price": 0
+            },
+            {
+              "id": 40203,
+              "name": "Frutilla Tentación Con jalea de Frutilla",
+              "price": 0
+            },
+            {
+              "id": 40204,
+              "name": "Menta Granizada",
+              "price": 0
+            },
+            {
+              "id": 40205,
+              "name": "Portuguesa",
+              "price": 0
+            },
+            {
+              "id": 40206,
+              "name": "Straciatella",
+              "price": 0
+            },
+            {
+              "id": 40207,
+              "name": "Tramontana",
+              "price": 0
+            },
+            {
+              "id": 40208,
+              "name": "Vainilla",
+              "price": 0
+            },
+            {
+              "id": 40209,
+              "name": "Chocolate Amargo",
+              "price": 0
+            },
+            {
+              "id": 40210,
+              "name": "Chocolate Clásico",
+              "price": 0
+            },
+            {
+              "id": 40211,
+              "name": "Chocolate Suizo",
+              "price": 0
+            },
+            {
+              "id": 40212,
+              "name": "Chocolate con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40213,
+              "name": "Chocolate con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40214,
+              "name": "Dulce de leche Clásico",
+              "price": 0
+            },
+            {
+              "id": 40215,
+              "name": "Dulce de leche Granizado",
+              "price": 0
+            },
+            {
+              "id": 40216,
+              "name": "Dulce de leche Glacé con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40217,
+              "name": "Dulce de leche Tentación",
+              "price": 0
+            },
+            {
+              "id": 40218,
+              "name": "Dulce de leche con Oreo",
+              "price": 0
+            },
+            {
+              "id": 40219,
+              "name": "Acai al agua",
+              "price": 0
+            },
+            {
+              "id": 40220,
+              "name": "Frutilla al agua",
+              "price": 0
+            },
+            {
+              "id": 40221,
+              "name": "Frutos del bosque a la crema",
+              "price": 0
+            },
+            {
+              "id": 40222,
+              "name": "Frutos rojos al agua",
+              "price": 0
+            },
+            {
+              "id": 40223,
+              "name": "Limoncello",
+              "price": 0
+            },
+            {
+              "id": 40224,
+              "name": "Mburucuyá a la crema",
+              "price": 0
+            },
+            {
+              "id": 40225,
+              "name": "Pie de limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52262,
+      "name": "Combo volcán + 1/4 kg",
+      "description": "Combo volcán de chocolate + 1/4 kg",
+      "price": 39000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/52262.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 8514,
+          "kind": "multi",
+          "max": null,
+          "items": [
+            {
+              "id": 40193,
+              "name": "Amarena",
+              "price": 0
+            },
+            {
+              "id": 40194,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 40195,
+              "name": "Banana Split",
+              "price": 0
+            },
+            {
+              "id": 40196,
+              "name": "Cafe",
+              "price": 0
+            },
+            {
+              "id": 40197,
+              "name": "Coco Split",
+              "price": 0
+            },
+            {
+              "id": 40198,
+              "name": "Pistacho",
+              "price": 0
+            },
+            {
+              "id": 40199,
+              "name": "Oreo",
+              "price": 0
+            },
+            {
+              "id": 40200,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40201,
+              "name": "Cuatro Leches",
+              "price": 0
+            },
+            {
+              "id": 40202,
+              "name": "Frutilla a la crema",
+              "price": 0
+            },
+            {
+              "id": 40203,
+              "name": "Frutilla Tentación Con jalea de Frutilla",
+              "price": 0
+            },
+            {
+              "id": 40204,
+              "name": "Menta Granizada",
+              "price": 0
+            },
+            {
+              "id": 40205,
+              "name": "Portuguesa",
+              "price": 0
+            },
+            {
+              "id": 40206,
+              "name": "Straciatella",
+              "price": 0
+            },
+            {
+              "id": 40207,
+              "name": "Tramontana",
+              "price": 0
+            },
+            {
+              "id": 40208,
+              "name": "Vainilla",
+              "price": 0
+            },
+            {
+              "id": 40209,
+              "name": "Chocolate Amargo",
+              "price": 0
+            },
+            {
+              "id": 40210,
+              "name": "Chocolate Clásico",
+              "price": 0
+            },
+            {
+              "id": 40211,
+              "name": "Chocolate Suizo",
+              "price": 0
+            },
+            {
+              "id": 40212,
+              "name": "Chocolate con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40213,
+              "name": "Chocolate con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40214,
+              "name": "Dulce de leche Clásico",
+              "price": 0
+            },
+            {
+              "id": 40215,
+              "name": "Dulce de leche Granizado",
+              "price": 0
+            },
+            {
+              "id": 40216,
+              "name": "Dulce de leche Glacé con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40217,
+              "name": "Dulce de leche Tentación",
+              "price": 0
+            },
+            {
+              "id": 40218,
+              "name": "Dulce de leche con Oreo",
+              "price": 0
+            },
+            {
+              "id": 40219,
+              "name": "Acai al agua",
+              "price": 0
+            },
+            {
+              "id": 40220,
+              "name": "Frutilla al agua",
+              "price": 0
+            },
+            {
+              "id": 40221,
+              "name": "Frutos del bosque a la crema",
+              "price": 0
+            },
+            {
+              "id": 40222,
+              "name": "Frutos rojos al agua",
+              "price": 0
+            },
+            {
+              "id": 40223,
+              "name": "Limoncello",
+              "price": 0
+            },
+            {
+              "id": 40224,
+              "name": "Mburucuyá a la crema",
+              "price": 0
+            },
+            {
+              "id": 40225,
+              "name": "Pie de limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95554,
+      "name": "Combo Wafle + 1/4 kg de helado",
+      "description": "Un Wafle + 1/4 kg de helado",
+      "price": 33000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/95554.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 8514,
+          "kind": "multi",
+          "max": null,
+          "items": [
+            {
+              "id": 40193,
+              "name": "Amarena",
+              "price": 0
+            },
+            {
+              "id": 40194,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 40195,
+              "name": "Banana Split",
+              "price": 0
+            },
+            {
+              "id": 40196,
+              "name": "Cafe",
+              "price": 0
+            },
+            {
+              "id": 40197,
+              "name": "Coco Split",
+              "price": 0
+            },
+            {
+              "id": 40198,
+              "name": "Pistacho",
+              "price": 0
+            },
+            {
+              "id": 40199,
+              "name": "Oreo",
+              "price": 0
+            },
+            {
+              "id": 40200,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40201,
+              "name": "Cuatro Leches",
+              "price": 0
+            },
+            {
+              "id": 40202,
+              "name": "Frutilla a la crema",
+              "price": 0
+            },
+            {
+              "id": 40203,
+              "name": "Frutilla Tentación Con jalea de Frutilla",
+              "price": 0
+            },
+            {
+              "id": 40204,
+              "name": "Menta Granizada",
+              "price": 0
+            },
+            {
+              "id": 40205,
+              "name": "Portuguesa",
+              "price": 0
+            },
+            {
+              "id": 40206,
+              "name": "Straciatella",
+              "price": 0
+            },
+            {
+              "id": 40207,
+              "name": "Tramontana",
+              "price": 0
+            },
+            {
+              "id": 40208,
+              "name": "Vainilla",
+              "price": 0
+            },
+            {
+              "id": 40209,
+              "name": "Chocolate Amargo",
+              "price": 0
+            },
+            {
+              "id": 40210,
+              "name": "Chocolate Clásico",
+              "price": 0
+            },
+            {
+              "id": 40211,
+              "name": "Chocolate Suizo",
+              "price": 0
+            },
+            {
+              "id": 40212,
+              "name": "Chocolate con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40213,
+              "name": "Chocolate con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40214,
+              "name": "Dulce de leche Clásico",
+              "price": 0
+            },
+            {
+              "id": 40215,
+              "name": "Dulce de leche Granizado",
+              "price": 0
+            },
+            {
+              "id": 40216,
+              "name": "Dulce de leche Glacé con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40217,
+              "name": "Dulce de leche Tentación",
+              "price": 0
+            },
+            {
+              "id": 40218,
+              "name": "Dulce de leche con Oreo",
+              "price": 0
+            },
+            {
+              "id": 40219,
+              "name": "Acai al agua",
+              "price": 0
+            },
+            {
+              "id": 40220,
+              "name": "Frutilla al agua",
+              "price": 0
+            },
+            {
+              "id": 40221,
+              "name": "Frutos del bosque a la crema",
+              "price": 0
+            },
+            {
+              "id": 40222,
+              "name": "Frutos rojos al agua",
+              "price": 0
+            },
+            {
+              "id": 40223,
+              "name": "Limoncello",
+              "price": 0
+            },
+            {
+              "id": 40224,
+              "name": "Mburucuyá a la crema",
+              "price": 0
+            },
+            {
+              "id": 40225,
+              "name": "Pie de limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95596,
+      "name": "Milkshake 500ml",
+      "description": "",
+      "price": 22000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/95596.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 8514,
+          "kind": "multi",
+          "max": null,
+          "items": [
+            {
+              "id": 40193,
+              "name": "Amarena",
+              "price": 0
+            },
+            {
+              "id": 40194,
+              "name": "Americana",
+              "price": 0
+            },
+            {
+              "id": 40195,
+              "name": "Banana Split",
+              "price": 0
+            },
+            {
+              "id": 40196,
+              "name": "Cafe",
+              "price": 0
+            },
+            {
+              "id": 40197,
+              "name": "Coco Split",
+              "price": 0
+            },
+            {
+              "id": 40198,
+              "name": "Pistacho",
+              "price": 0
+            },
+            {
+              "id": 40199,
+              "name": "Oreo",
+              "price": 0
+            },
+            {
+              "id": 40200,
+              "name": "Americana con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40201,
+              "name": "Cuatro Leches",
+              "price": 0
+            },
+            {
+              "id": 40202,
+              "name": "Frutilla a la crema",
+              "price": 0
+            },
+            {
+              "id": 40203,
+              "name": "Frutilla Tentación Con jalea de Frutilla",
+              "price": 0
+            },
+            {
+              "id": 40204,
+              "name": "Menta Granizada",
+              "price": 0
+            },
+            {
+              "id": 40205,
+              "name": "Portuguesa",
+              "price": 0
+            },
+            {
+              "id": 40206,
+              "name": "Straciatella",
+              "price": 0
+            },
+            {
+              "id": 40207,
+              "name": "Tramontana",
+              "price": 0
+            },
+            {
+              "id": 40208,
+              "name": "Vainilla",
+              "price": 0
+            },
+            {
+              "id": 40209,
+              "name": "Chocolate Amargo",
+              "price": 0
+            },
+            {
+              "id": 40210,
+              "name": "Chocolate Clásico",
+              "price": 0
+            },
+            {
+              "id": 40211,
+              "name": "Chocolate Suizo",
+              "price": 0
+            },
+            {
+              "id": 40212,
+              "name": "Chocolate con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40213,
+              "name": "Chocolate con Almendras",
+              "price": 0
+            },
+            {
+              "id": 40214,
+              "name": "Dulce de leche Clásico",
+              "price": 0
+            },
+            {
+              "id": 40215,
+              "name": "Dulce de leche Granizado",
+              "price": 0
+            },
+            {
+              "id": 40216,
+              "name": "Dulce de leche Glacé con Brownie",
+              "price": 0
+            },
+            {
+              "id": 40217,
+              "name": "Dulce de leche Tentación",
+              "price": 0
+            },
+            {
+              "id": 40218,
+              "name": "Dulce de leche con Oreo",
+              "price": 0
+            },
+            {
+              "id": 40219,
+              "name": "Acai al agua",
+              "price": 0
+            },
+            {
+              "id": 40220,
+              "name": "Frutilla al agua",
+              "price": 0
+            },
+            {
+              "id": 40221,
+              "name": "Frutos del bosque a la crema",
+              "price": 0
+            },
+            {
+              "id": 40222,
+              "name": "Frutos rojos al agua",
+              "price": 0
+            },
+            {
+              "id": 40223,
+              "name": "Limoncello",
+              "price": 0
+            },
+            {
+              "id": 40224,
+              "name": "Mburucuyá a la crema",
+              "price": 0
+            },
+            {
+              "id": 40225,
+              "name": "Pie de limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95597,
+      "name": "Smoothie 500ml",
+      "description": "",
+      "price": 24000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/95597.webp",
+      "featured": false,
+      "optionGroups": [
+        {
+          "id": 7138,
+          "kind": "single",
+          "max": 1,
+          "items": [
+            {
+              "id": 34585,
+              "name": "Acai",
+              "price": 0
+            },
+            {
+              "id": 34586,
+              "name": "Frutilla",
+              "price": 0
+            },
+            {
+              "id": 34587,
+              "name": "Frutos rojos",
+              "price": 0
+            },
+            {
+              "id": 34588,
+              "name": "Piña",
+              "price": 0
+            },
+            {
+              "id": 34589,
+              "name": "limón",
+              "price": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95598,
+      "name": "Copa Chicago - Brownie",
+      "description": "Helado de dulce de leche , tramontana, chocolate con trozos de brownie y baño de chocolate",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/95598.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95599,
+      "name": "Copa Almendras",
+      "description": "Helado sabor americana con almendras, salsa de dulce de leche y almendras caramelizadas",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/95599.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95600,
+      "name": "Copa Nueva Jersey - Oreo",
+      "description": "Helado de oreo con brownie, cubanitos y baño de chocolate",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/95600.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95601,
+      "name": "Copa Brasil - Açaí",
+      "description": "Helado de açaí con leche condensada, granola, banana y leche en polvo.",
+      "price": 25000,
+      "previousPrice": null,
+      "categoryId": 5975,
+      "image": "/img/products/95601.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 52258,
+      "name": "Alfajorcitos de Maicena x6",
+      "description": "",
+      "price": 15000,
+      "previousPrice": null,
+      "categoryId": 5971,
+      "image": "/img/products/52258.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 81360,
+      "name": "Cookies",
+      "description": "Cookie con relleno dulce de leche",
+      "price": 10000,
+      "previousPrice": null,
+      "categoryId": 5971,
+      "image": "/img/products/81360.webp",
+      "featured": false,
+      "optionGroups": []
+    },
+    {
+      "id": 95607,
+      "name": "Chocolatada",
+      "description": "Chocolatada Belga de litro",
+      "price": 27000,
+      "previousPrice": null,
+      "categoryId": 5971,
+      "image": "/img/products/95607.webp",
+      "featured": false,
+      "optionGroups": []
+    }
+  ]
+}
