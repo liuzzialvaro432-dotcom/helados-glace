@@ -63,7 +63,8 @@ beim Teilen des Links absolute URLs bekommt.
 
 ## Marke
 
-Farben, Logo, Siegelform („contenedor“) und Texturen stammen aus dem Markenhandbuch („manual glacé final“):
+Farben, Logo, Siegelform („contenedor“) und Texturen stammen aus dem Markenhandbuch
+([**manual glacé final** (PDF)](../docs/brand/manual-glace-final.pdf)):
 Verde `#00aa7d`, Rosado `#e6327d`, Castaño `#b4825a`, Marrón `#5a320a`. Das Logo wird nur grün oder weiß, ohne
 Schatten und unverzerrt verwendet; auf Fotos kommt die Version mit Contenedor zum Einsatz.
 

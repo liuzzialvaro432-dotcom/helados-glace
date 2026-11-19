@@ -99,6 +99,8 @@ Paleta oficial del manual Glacé:
 
 Logo vectorial, texturas y badge **21 años** integrados en la UI. Texto accesible en UI: español (Paraguay).
 
+📘 **Manual de marca (PDF, 38 páginas):** [`docs/brand/manual-glace-final.pdf`](docs/brand/manual-glace-final.pdf) — colores, logo, contenedor, texturas y tipografía oficiales (*manual glacé final*).
+
 ---
 
 ## Arranque rápido
@@ -129,6 +131,7 @@ helados-glace/
 │   ├── src/components/    # UI, marca, carrito, catálogo
 │   ├── src/data/          # Catálogo, promos, eventos, sucursales
 │   └── public/            # Imágenes, íconos, service worker
+├── docs/brand/            # Manual de marca (PDF oficial)
 ├── docs/github/           # Banner, capturas y vista social para GitHub
 ├── src/                   # Extensión Chrome «Modellkatalog» (proyecto aparte)
 └── Modellkatalog.pdf
