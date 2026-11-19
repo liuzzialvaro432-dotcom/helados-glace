@@ -1,5 +1,7 @@
 # Helados Glacé – Bestell-App und Website
 
+> **GitHub-Ansicht:** Screenshots, Banner und Projektübersicht stehen in der [README im Repo-Root](../README.md).
+
 Web-App im Stil von PedidosYa/Fiweex für Helados Glacé (Paraguay): Katalog mit echten Produkten, Warenkorb,
 Delivery oder Abholung und Bestellung per WhatsApp. Dieselbe Anwendung ist Website und installierbare App (PWA)
 für iPhone/iPad, Android, Windows, macOS und Linux.
